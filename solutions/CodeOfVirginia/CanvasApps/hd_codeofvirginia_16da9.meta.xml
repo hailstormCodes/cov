@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>hd_codeofvirginia_16da9</Name>
+  <AppVersion>2023-08-14T22:33:18Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.23074.17.0</CreatedByClientVersion>
+  <MinClientVersion>3.23074.17.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.23074.17","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20230813T184600Z-3.23074.17.0"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>Code of Virginia</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"60761852-c365-4011-9683-8756997e0acc":{"id":"/providers/microsoft.powerapps/apis/shared_cov-20-2d-201-5f5b0c03e3ad94fb97-5f15d4924be0c2b526","displayName":"CoV - 1","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["CodeOfVirginia"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard","actions":["CoVTitlesGetListOfJson","CoVChaptersGetListOfJson","CoVSectionsGetListOfJson","CoVSectionsGetSectionDetailsJson"],"customApiLogicalName":"hd_cov-20-2d-201","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"hd_cov-20-2d-201","componenttype":372,"componenttypeplatformname":"connector"}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/hd_codeofvirginia_16da9_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/hd_codeofvirginia_16da9_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
