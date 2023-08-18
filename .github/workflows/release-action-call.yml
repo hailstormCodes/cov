@@ -12,10 +12,10 @@ jobs:
     uses: ./.github/workflows/release-solution-to-prod-with-inputs.yml
     with:
       #You can specify the solution name here
-      solution_name: ChristmasVillageBaseSolution
+      solution_name: CodeOfVirginia
       #Update your values here
       BUILD_ENVIRONMENT_URL: https://hayleedev.crm.dynamics.com
-      PRODUCTION_ENVIRONMENT_URL: https://christmasvillagedev.crm.dynamics.com/
+      PRODUCTION_ENVIRONMENT_URL: https://juvenilecourt.crm.dynamics.com/
       CLIENT_ID: 627a09f6-a393-4d86-a781-1638e7c063c5
       TENANT_ID: 83d34fae-1923-40db-a51b-e37e5df5faa5      
     secrets:
