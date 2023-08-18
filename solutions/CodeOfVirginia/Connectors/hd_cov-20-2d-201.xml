@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>47ba4e94-6a21-4416-981b-2aa2b323363a</connectorid>
+  <description>CodeOfVirginia</description>
+  <displayname>CoV - 1</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>hd_cov-20-2d-201</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/hd_cov-20-2d-201_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/hd_cov-20-2d-201_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/hd_cov-20-2d-201_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/hd_cov-20-2d-201_iconblob.Png</iconblob>
+</Connector>
